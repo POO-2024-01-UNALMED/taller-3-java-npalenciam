@@ -97,8 +97,13 @@ public class TV {
 	
 	
 //lo del control (preguntar en asesoria)
+	public Control getControl () {
+		return this.control;
+	}
+	
 	public void setControl (Control control) {
 		this.control = control;
 	}
+	
 	
 }
