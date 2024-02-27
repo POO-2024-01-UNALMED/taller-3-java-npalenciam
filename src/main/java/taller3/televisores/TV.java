@@ -35,8 +35,8 @@ public class TV {
 		this.marca = marca;
 	}
 	
-//precio
-	public int getprecio () {
+//precio ; malditas mayusculas
+	public int getPrecio () {
 		return this.precio;
 		
 	}
